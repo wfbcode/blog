@@ -1,6 +1,6 @@
 ### 简介
 
-记录日常工作和学习，不对之处还请大家多做自我批评。持续更新中，欢迎围观！
+记录日常学习、工作和生活，不对之处还请大家多做自我批评。持续更新中，欢迎围观！
 
 ### 大致分类
 - **[技术笔记](#技术笔记)**
@@ -17,12 +17,15 @@
   - [jQuery 的attr与prop的区别](https://github.com/wfbcode/blog/issues/2)
   - [H5定位问题](https://github.com/wfbcode/blog/issues/4)
   - [手机端 click 事件 300ms 左右延迟](https://github.com/wfbcode/blog/issues/6)
-  - [事件循环](https://github.com/wfbcode/blog/issues/7)
+  - [事件循环](https://github.com/wfbcode/blog/issues/14)
 - **css**
   - [css居中](https://github.com/wfbcode/blog/issues/3)
   - [动画优化](https://github.com/wfbcode/blog/issues/5)
   - [position:sticky 实现粘性布局](https://github.com/wfbcode/blog/issues/8)
 - **html**
+- **其他**
+  - [Markdown语法](https://github.com/younghz/Markdown)
+  - [github学习网站](https://github.com/wfbcode/blog/issues/13) 随时欢迎各路大神补充
 
 ### 常用框架
 - jquery
@@ -39,7 +42,7 @@
 - [学习教程]()
 
 ### 数据库
-- [lowdb]()
+- [lowdb](https://github.com/wfbcode/blog/issues/7)
 - [mongodb]()
 
 ### 面试题系列
@@ -54,5 +57,9 @@
 前端小学生一枚，坐标杭州。
 
 喜欢各种球类运动……
+
+感觉最有哲理的一句话：任何事物都是利害相连，做人切勿患得患失。
+
+学生时代最喜欢的一句话：岂能尽事如意，但求问心无愧！  
 
 [回到顶部↑](#简介)
