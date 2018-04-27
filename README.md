@@ -22,10 +22,13 @@
   - [css居中](https://github.com/wfbcode/blog/issues/3)
   - [动画优化](https://github.com/wfbcode/blog/issues/5)
   - [position:sticky 实现粘性布局](https://github.com/wfbcode/blog/issues/8)
-- **html**
+- **html5&css3**
+  - [canvas](https://github.com/wfbcode/blog/issues/19)
+  - [svg](https://github.com/wfbcode/blog/issues/20)
 - **其他**
   - [Markdown语法](https://github.com/younghz/Markdown)
   - [github学习网站](https://github.com/wfbcode/blog/issues/13) 随时欢迎各路大神补充
+  - [各路前端大咖](https://github.com/wfbcode/blog/issues/16)
 
 ### 常用框架
 - jquery
@@ -43,14 +46,15 @@
 
 ### 数据库
 - [lowdb](https://github.com/wfbcode/blog/issues/7)
-- [mongodb]()
+- [mongodb](https://github.com/wfbcode/blog/issues/18)
 
 ### 面试题系列
-- [面试题]()
+- [面试题](https://github.com/wfbcode/blog/issues/15)
 
 ### 闲文杂谈
 - [我在杭州的这几年](https://github.com/wfbcode/blog/issues/10)
 - [关于故乡](https://github.com/wfbcode/blog/issues/12)
+- [儿子的出生](https://github.com/wfbcode/blog/issues/17)
 
 ### 关于我
 
