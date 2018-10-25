@@ -20,3 +20,4 @@
 - [Markdown语法](https://github.com/younghz/Markdown)
 - [github学习网站](https://github.com/wfbcode/blog/issues/13) 随时欢迎各路大神补充
 - [各路前端大咖](https://github.com/wfbcode/blog/issues/16)
+- [常用插件chrome、sublime text插件](https://github.com/wfbcode/blog/issues/22)
