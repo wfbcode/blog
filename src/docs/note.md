@@ -22,3 +22,4 @@
 - [各路前端大咖](https://github.com/wfbcode/blog/issues/16)
 - [常用插件chrome、sublime text插件](https://github.com/wfbcode/blog/issues/22)
 - [git分支管理规范](https://github.com/wfbcode/blog/issues/24)
+- [前端发展史及趋势](https://github.com/wfbcode/blog/issues/25)
